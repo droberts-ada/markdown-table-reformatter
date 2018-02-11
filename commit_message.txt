@@ -2,4 +2,6 @@ Use short style for feedback and PR template tables
 
 Beep boop, I am a robot
 This commit made by Dan's table style conversion script
+Source code is available at https://github.com/droberts-ada/markdown-table-reformatter
+
 If there's a problem with this commit, please let Dan know!
